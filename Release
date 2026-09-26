@@ -1,0 +1,21 @@
+Origin: TCD
+Label: tcydia
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: tcydia — https://thefrutigerdaniel.github.io/tcydia
+Date: Sat, 26 Sep 2026 10:32:26 UTC
+MD5Sum:
+ 7bc1a8c1aba2dad1f5ad0c4a6a4b4e80 1151 Packages
+ 3088382511ef3f350cdc7f3c1b0c5d92 711 Packages.bz2
+ 93097ae203a9b143165e7100da76c96a 640 Packages.gz
+SHA1:
+ bfc2504f416b10d6b57e934a57818372e32884c9 1151 Packages
+ db7629e7325664d7face07c5a7840fad216ba262 711 Packages.bz2
+ 35787c44f9702020aa4e25bcab5460e61fb6cacb 640 Packages.gz
+SHA256:
+ fe47689b559d0b5c4cd468c0e9841a8a33bec6c351e2904ba6b7b42c423d2a74 1151 Packages
+ 845d6fd8169d4747876a51248be29aeb7bd3a47f47ce6db989db223bcb641d0a 711 Packages.bz2
+ 6154afffb174366c43133fe58dd861ce05c7f11ffb7760c3db6082f83813d8d9 640 Packages.gz
