@@ -33,19 +33,19 @@ SHA256: 189e479287a6b6993a3764de9fa2479daec78db662bab5ac1cabd13bfed6f55e
 
 Package: org.awg.ios6
 Name: AmneziaWG
-Version: 0.5.0
+Version: 0.5.3
 Architecture: iphoneos-arm
 Description: AmneziaWG 3.1 (obfuscated WireGuard) VPN for iOS 6 and later. System-wide tunnel with a simple app: import a .conf, tap Connect.
 Maintainer: awg-ios6
 Author: awg-ios6
 Section: Networking
 Homepage: https://github.com/CHANGEME/awg-ios6
-Depends: firmware (>= 6.0), libstatusbar
+Depends: firmware (>= 6.0), mobilesubstrate, libstatusbar
 Tag: purpose::uikit, role::enduser
 Icon: file:///Applications/AmneziaWG.app/Icon-72.png
-Filename: debs/org.awg.ios6_0.5.0_iphoneos-arm.deb
-Size: 165250
-MD5sum: 991cf33b68687290fd0d64eb28a366fa
-SHA1: 928284e70299fdc16663ffdf4156b3d021e8b4be
-SHA256: 63d89aa6b7527cd09df8f33cef6c4e14164bccd5fb0d491b593d6a42b367034a
+Filename: debs/org.awg.ios6_0.5.3_iphoneos-arm.deb
+Size: 170356
+MD5sum: ddca7192ef0b3daac9ddc2ac253479ba
+SHA1: 4b1c3c99ea210bd56edb3688e6edceb6630d702a
+SHA256: 06add30d8af0f0cffcc20fe9aac0eae1de6954b061f400488a99c7e07c81c4b0
 
