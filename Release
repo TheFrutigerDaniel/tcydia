@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: tcydia — https://thefrutigerdaniel.github.io/tcydia
-Date: Sun, 27 Sep 2026 10:15:50 UTC
+Date: Wed, 25 Nov 2026 09:41:43 UTC
 MD5Sum:
- 65a23a86d82a89b49ef107505e7a5802 1829 Packages
- 0102c37d0505243e1a1dc5717ed650a4 902 Packages.bz2
- 1b0a84c8ac6634b5cbd440910fb343c1 763 Packages.gz
+ 5deecb5171415b53dd085d12f576341d 1833 Packages
+ 23e66343ac8fa42642b4c684677e04da 931 Packages.bz2
+ 37ce5e7ff767dd85b3e29094f7daf967 766 Packages.gz
 SHA1:
- 99e47fa261c8e4d05258e9ab6d9a2dc5e0001f2d 1829 Packages
- 854b9e5a0abebb8ccb6c1944e235b67c91240f1a 902 Packages.bz2
- cf728a7791e6a872b9e1e875be04db3d0adaa337 763 Packages.gz
+ 13d2705f4918cb3acc94826ac3fd27dca2635d0f 1833 Packages
+ 58861641149ef4e69e0d8ba2b379acc62684d083 931 Packages.bz2
+ 635064553a57010bedaea87846bb48883bbe44be 766 Packages.gz
 SHA256:
- cce08b76203fc9229540c3b2ba261953b0fd6e63a77d5784b87ce4d7a533de4c 1829 Packages
- ae68860c824152ea382fc299e78e7b6cae4a8fbb16bb762f176c354d462ec927 902 Packages.bz2
- 3a973f756e74a4345afdd5ae3afb5983d31602dffc8e19766b1f58204e2e15f3 763 Packages.gz
+ ae0c064bc598865abf24026f9d3bd338b9cd0dc25df3d6636dd586a1c02ef933 1833 Packages
+ cb2374779d54f0ddf3a8b34be9b6ce6f189bd5b1ec420c9b52a968b89ba20bfb 931 Packages.bz2
+ 80dbbce58d848409063cf1c2f443923aae79a50466f9a4dcf993b202747ea8b2 766 Packages.gz
